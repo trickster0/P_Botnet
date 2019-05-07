@@ -1,6 +1,9 @@
 # P_Botnet
 Private Botnet I made for the fun of it in pure python.
 This botnet is using dynamic AES encryption per command over SSL.
+<p>
+For the encryption to work, you are going to have to use the script i provided to create a pair of keys.
+The project still needs a few tweaks here and there.
 
 <IMG SRC="https://raw.githubusercontent.com/trickster0/P_Botnet/master/botnet.png"/>
 On the server side -
